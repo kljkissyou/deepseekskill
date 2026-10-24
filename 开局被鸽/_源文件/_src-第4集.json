@@ -1,0 +1,135 @@
+﻿[
+    {
+        "line":  246,
+        "scene":  "4-1",
+        "speaker":  "Damián",
+        "cn":  "你这种答应我结婚，却出轨的贱人也敢说我是渣男？",
+        "en":  "You agreed to marry me, then cheated on me—and you have the nerve to call me a scumbag?"
+    },
+    {
+        "line":  250,
+        "scene":  "4-1",
+        "speaker":  "员工一",
+        "cn":  "（小声）Eloísa出轨了？",
+        "en":  "(whispering) Eloísa cheated?"
+    },
+    {
+        "line":  252,
+        "scene":  "4-1",
+        "speaker":  "员工二",
+        "cn":  "（鄙夷）我要是组长我也分手。",
+        "en":  "(With disdain) I\u0027d break up too if I were him."
+    },
+    {
+        "line":  255,
+        "scene":  "4-1",
+        "speaker":  "Damián",
+        "cn":  "（不屑）还有，我已经结婚了！",
+        "en":  "(with disdain) And besides, I\u0027m already married."
+    },
+    {
+        "line":  258,
+        "scene":  "4-1",
+        "speaker":  "Eloísa",
+        "cn":  "（震惊）你结婚了？哪个女人能看上你！",
+        "en":  "(Shocked) You\u0027re married? Which woman could possibly be interested in you?"
+    },
+    {
+        "line":  261,
+        "scene":  "4-1",
+        "speaker":  "Damián",
+        "cn":  "这就不关你的事了。现在我正式通知你，我们分手。现在我是你的组长，半个小时内，立刻整理出一份你的工作清单交给我！",
+        "en":  "That’s none of your business. And as of now, we’re done. I’m your team lead, so you have thirty minutes to put together a full list of your tasks and get it to me."
+    },
+    {
+        "line":  264,
+        "scene":  "4-1",
+        "speaker":  "Eloísa",
+        "cn":  "（咬牙）你给我等着！",
+        "en":  "(grinding her teeth) Just you wait!"
+    },
+    {
+        "line":  270,
+        "scene":  "4-1",
+        "speaker":  "员工一",
+        "cn":  "（惊慌）组长，不好了！公司的系统被黑客入侵了！",
+        "en":  "(In panic) Damián, our system has been hacked!"
+    },
+    {
+        "line":  273,
+        "scene":  "4-1",
+        "speaker":  "Damián",
+        "cn":  "是谁负责的部分？",
+        "en":  "Who\u0027s in charge of this?"
+    },
+    {
+        "line":  277,
+        "scene":  "4-1",
+        "speaker":  "Eloísa",
+        "cn":  "没按流程提交安全补丁，被黑客钻了空子。",
+        "en":  "Sorry... I didn’t follow the proper process for submitting the security patch, which left an opening for hackers."
+    },
+    {
+        "line":  280,
+        "scene":  "4-1",
+        "speaker":  "Damián",
+        "cn":  "（嘲讽）Eloísa，你身为技术员，居然能发生这么大的失误！麻烦是你惹出来，你就给我处理好，否则，这工作你也不用干了！",
+        "en":  "(Mockingly) Eloísa, you’re a technician. How could you make such serious mistake? You caused this mess, so fix it. Otherwise, you’re fired."
+    },
+    {
+        "line":  286,
+        "scene":  "4-1",
+        "speaker":  "员工一",
+        "cn":  "（不屑）就这技术，她是怎么进的我们公司啊？",
+        "en":  "(With disdain) Do you see what she\u0027s doing now? How did she even get hired by our company?"
+    },
+    {
+        "line":  288,
+        "scene":  "4-1",
+        "speaker":  "员工二",
+        "cn":  "（讥讽）你不知道吗？她跟部长还有一腿呢！",
+        "en":  "(Mockingly) You didn’t know? She’s sleeping with the department head, too!"
+    },
+    {
+        "line":  292,
+        "scene":  "4-1",
+        "speaker":  "Damián(VO)",
+        "cn":  "没想到，Eloísa竟然还跟部长出轨了，她到底有几个情人？",
+        "en":  "I didn\u0027t expect Eloísa to have an affair with the head of the department—how many lovers does she have?"
+    },
+    {
+        "line":  295,
+        "scene":  "4-1",
+        "speaker":  "Mirella",
+        "cn":  "（沉声）你们部门怎么干活的？已经十分钟了！再这样下去，我们公司的损失将会很大！",
+        "en":  "(sternly): What the hell is your department doing? It’s been ten minutes! Every minute this goes on is costing the company a fortune!"
+    },
+    {
+        "line":  298,
+        "scene":  "4-1",
+        "speaker":  "Mirella",
+        "cn":  "总裁说了，谁能修复好bug，就奖励五万奖金。（看Damián，意味深长）某位刚来的，总裁在等着看你表现呢。",
+        "en":  "The CEO says whoever fixes the bug gets a $50,000 bonus."
+    },
+    {
+        "line":  303,
+        "scene":  "4-1",
+        "speaker":  "Damián(VO)",
+        "cn":  "这是在点我？",
+        "en":  "Is she talking about me?"
+    },
+    {
+        "line":  306,
+        "scene":  "4-1",
+        "speaker":  "Eloísa",
+        "cn":  "（不屑）我劝你还是省省吧，这个等级的病毒你是破解不了的！别到时候病毒没解开，工作再丢了！",
+        "en":  "(with disdain) Don’t waste your time. There’s no way you can crack a virus this advanced! You’ll be lucky if you don’t lose your job trying."
+    },
+    {
+        "line":  312,
+        "scene":  "4-1",
+        "speaker":  "Damián（VO）",
+        "cn":  "不愧是顶级黑客能力，这些bug在我眼里简直是小意思。",
+        "en":  "As expected—top-tier hacking skills. Easy fix."
+    }
+]

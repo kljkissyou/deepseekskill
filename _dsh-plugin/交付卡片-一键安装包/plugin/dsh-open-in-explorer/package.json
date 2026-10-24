@@ -1,0 +1,23 @@
+{
+  "name": "dsh-open-in-explorer",
+  "version": "1.0.0",
+  "description": "Open delivered-file cards directly in Windows Explorer instead of the in-app preview sidebar",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    },
+    "./client": {
+      "default": "./lib/client.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "client": {
+      "platform": "web"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+pageType: cover
+background:
+  type: solid
+  color: '#FFFFFF'
+elements:
+  - elementId: slide-1-node-1-Title-1
+    elementType: text
+    bounds:
+      - 54
+      - 167.75
+      - 612
+      - 115.75
+    content:
+      fontFamily: 微软雅黑
+      fontSize: 44
+      color: '#000000'
+      align:
+        - center
+        - top
+      wrap: true
+      text: <p><span style="color:#000000;font-size:44px;font-family:微软雅黑">《开局被鸽》视觉基调设定</span></p>
+      paragraphs:
+        - runs:
+            - text: 《开局被鸽》视觉基调设定
+              options:
+                fontSize: 44
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: center
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+      nativeTextBody: <p:txBody xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/><a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="ctr" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:spcBef><a:spcPct val="0"/></a:spcBef><a:buNone/><a:defRPr sz="4400" kern="1200"><a:solidFill><a:schemeClr val="tx1"/></a:solidFill><a:latin typeface="+mj-lt"/><a:ea typeface="+mj-ea"/><a:cs typeface="+mj-cs"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="4400" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>《开局被鸽》视觉基调设定</a:t></a:r></a:p></p:txBody>
+      textBox: false
+      margins:
+        - 3.6
+        - 7.2
+        - 3.6
+        - 7.2
+      overflow: clip
+    sourceLayout: f15dcb97b32a32607829f60d67914ac8b008d1aca71a0c1d1125c3edaf7c8ad8
+  - elementId: slide-1-node-2-Subtitle-2
+    elementType: text
+    bounds:
+      - 108
+      - 306
+      - 504
+      - 138
+    content:
+      fontFamily: 微软雅黑
+      fontSize: 18
+      color: '#000000'
+      align:
+        - center
+        - top
+      wrap: true
+      fit: shrink
+      text: <p><span style="color:#000000;font-size:18px;font-family:微软雅黑">Office 工具链连通性测试 · 2026-10-19</span></p>
+      paragraphs:
+        - runs:
+            - text: Office 工具链连通性测试 · 2026-10-19
+              options:
+                fontSize: 18
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: center
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+      nativeTextBody: <p:txBody xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0"><a:normAutofit/></a:bodyPr><a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="ctr" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1" indent="0"><a:buNone/><a:defRPr><a:solidFill><a:schemeClr val="tx1"><a:tint val="75000"/></a:schemeClr></a:solidFill></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="1800" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>Office 工具链连通性测试 · 2026-10-19</a:t></a:r></a:p></p:txBody>
+      textBox: false
+      margins:
+        - 3.6
+        - 7.2
+        - 3.6
+        - 7.2
+      overflow: clip
+    sourceLayout: 01df5688fc8f7188155bb907be90184c9240313c41772c631801ef5ba31e225d

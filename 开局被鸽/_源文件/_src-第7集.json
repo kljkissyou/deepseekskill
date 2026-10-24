@@ -1,0 +1,170 @@
+﻿[
+    {
+        "line":  460,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（沉声）Damián，昨晚如果不是我去接你，你是不是就跟别人睡了？",
+        "en":  "(low voice) Damián, if I hadn\u0027t picked you up last night, would you have slept with someone else?"
+    },
+    {
+        "line":  463,
+        "scene":  "7-1",
+        "speaker":  "Damián",
+        "cn":  "怎么可能。Isadora，你要相信我啊！",
+        "en":  "What are you on about Isadora? you have to believe me!"
+    },
+    {
+        "line":  466,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（傲娇）算你识相！（爬到Damián面前，看着Damián）昨晚表现不错，不跟你计较了。",
+        "en":  "(attacking) You\u0027re quite tactful! (Crawls up to Damián and looks at him) You were quite impressive last night. I won\u0027t hold it against you."
+    },
+    {
+        "line":  470,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（笑）早安吻。",
+        "en":  "(laughs) Morning babe!"
+    },
+    {
+        "line":  473,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（笑）你要干什么？",
+        "en":  "(laughs) What are you doing?"
+    },
+    {
+        "line":  477,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（惊喜）没想到你的吻技也这么棒。",
+        "en":  "(Surprise) I didn\u0027t expect you\u0027re so good at kissing!"
+    },
+    {
+        "line":  480,
+        "scene":  "7-1",
+        "speaker":  "Damián",
+        "cn":  "还有更棒的，今晚回来让你体验一下。",
+        "en":  "That’s not even the best part. Come back tonight and I’ll show you more."
+    },
+    {
+        "line":  483,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "好啊，不过，你上班要迟到了吧？",
+        "en":  "Sure, but I figure... You\u0027re running late for work?"
+    },
+    {
+        "line":  487,
+        "scene":  "7-1",
+        "speaker":  "Damián",
+        "cn":  "对了，你在哪里上班啊？",
+        "en":  "Oh right, where do you work?"
+    },
+    {
+        "line":  490,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "我在Casa Elorza，我是特助。",
+        "en":  "I work at Casa Elorza. I’m the executive assistant."
+    },
+    {
+        "line":  493,
+        "scene":  "7-1",
+        "speaker":  "Damián",
+        "cn":  "原来我们是同事啊。不过我只是信息部的小职员。",
+        "en":  "So we\u0027re actually colleagues? But I\u0027m just a junior employee in the Information Department."
+    },
+    {
+        "line":  495,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（挑眉）昨天临时顶上处理黑客那事的新人，不少人都听说了。",
+        "en":  "(raising an eyebrow) You’re the new guy who stepped in during that hacking incident yesterday, right? Word’s already gotten around about you."
+    },
+    {
+        "line":  498,
+        "scene":  "7-1",
+        "speaker":  "Damián",
+        "cn":  "对了，你是特助，应该认识总裁吧？",
+        "en":  "Right, you\u0027re the EA—you must know the CEO, right?"
+    },
+    {
+        "line":  501,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（试探）怎么？你有兴趣？",
+        "en":  "(tentatively) Yeah? Are you interested in the CEO?"
+    },
+    {
+        "line":  504,
+        "scene":  "7-1",
+        "speaker":  "Damián",
+        "cn":  "怎么可能，我就是好奇问问。总裁身份那么高贵，我可不敢肖想。",
+        "en":  "Of course not. I was just curious. The CEO’s way out of my league. I wouldn’t dare get any ideas."
+    },
+    {
+        "line":  507,
+        "scene":  "7-1",
+        "speaker":  "Isadora（VO）",
+        "cn":  "看来，我要是现在告诉他我的真实身份会吓到他吧，算了，还是以后再说吧。",
+        "en":  "If I reveal my true identity now, he\u0027ll be intimidated. Forget it—let\u0027s wait till later."
+    },
+    {
+        "line":  509,
+        "scene":  "7-1",
+        "speaker":  "Isadora",
+        "cn":  "（拿起手机）我们一起打车吧。",
+        "en":  "(Picks up her phone) Let\u0027s grab a cab?"
+    },
+    {
+        "line":  515,
+        "scene":  "7-2",
+        "speaker":  "Eloísa",
+        "cn":  "（试探）Damián，昨晚你没发生什么事吧？",
+        "en":  "(tentatively) Damián, everything okay last night?"
+    },
+    {
+        "line":  518,
+        "scene":  "7-2",
+        "speaker":  "Damián",
+        "cn":  "我能有什么事？走开！",
+        "en":  "What could possibly go wrong? Get out!"
+    },
+    {
+        "line":  521,
+        "scene":  "7-2",
+        "speaker":  "Eloísa",
+        "cn":  "（颐指气使）Damián，你这样我也不会原谅你的！但我已经答应你了，明天我们去登记处办手续吧。",
+        "en":  "(commanding) Don’t think I’ve forgiven you, Damián! But since I already agreed to marry you, we’ll go to the registry office tomorrow and make it official."
+    },
+    {
+        "line":  524,
+        "scene":  "7-2",
+        "speaker":  "Damián",
+        "cn":  "（不耐烦）你脑子有问题吗？我说了，我已经领证了！你别纠缠我了！",
+        "en":  "(frustrated) Are you out of your mind? I\u0027ve already got married! Stop pestering me and leave me alone!"
+    },
+    {
+        "line":  527,
+        "scene":  "7-2",
+        "speaker":  "Eloísa",
+        "cn":  "我纠缠？（怒）你以后别求着我嫁给你！",
+        "en":  "I\u0027m pestering you? (Angry) Just don’t come crawling back, begging me to marry you!"
+    },
+    {
+        "line":  531,
+        "scene":  "7-2",
+        "speaker":  "Fernando（OS）",
+        "cn":  "（开心）Damián，告诉你个好消息，你父亲我要结婚了！",
+        "en":  "(Happy) Damián, guess what? Your old man\u0027s getting married!"
+    },
+    {
+        "line":  533,
+        "scene":  "7-2",
+        "speaker":  "Damián",
+        "cn":  "（不可置信）什么？",
+        "en":  "(In disbelief) What did you just say?"
+    }
+]

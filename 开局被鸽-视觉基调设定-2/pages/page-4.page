@@ -1,0 +1,119 @@
+pageType: content
+background:
+  type: solid
+  color: '#FFFFFF'
+elements:
+  - elementId: slide-4-node-7-Title-1
+    elementType: text
+    bounds:
+      - 36
+      - 21.625
+      - 648
+      - 90
+    content:
+      fontFamily: Microsoft YaHei
+      fontSize: 44
+      color: '#000000'
+      align:
+        - center
+        - middle
+      wrap: true
+      fit: shrink
+      text: <p><span style="color:#000000;font-size:44px;font-family:Microsoft YaHei">三、验证点</span></p>
+      paragraphs:
+        - runs:
+            - text: 三、验证点
+              options:
+                fontSize: 44
+                fontFamily: Microsoft YaHei
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: center
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+      nativeTextBody: <p:txBody xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr"><a:normAutofit/></a:bodyPr><a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="ctr" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:spcBef><a:spcPct val="0"/></a:spcBef><a:buNone/><a:defRPr sz="4400" kern="1200"><a:solidFill><a:schemeClr val="tx1"/></a:solidFill><a:latin typeface="+mj-lt"/><a:ea typeface="+mj-ea"/><a:cs typeface="+mj-cs"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="4400" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="Microsoft YaHei"/><a:ea typeface="Microsoft YaHei"/><a:cs typeface="Microsoft YaHei"/></a:rPr><a:t>三、验证点</a:t></a:r></a:p></p:txBody>
+      textBox: false
+      margins:
+        - 3.6
+        - 7.2
+        - 3.6
+        - 7.2
+      overflow: clip
+    sourceLayout: ad49ecfeabff5530a3fcfc8e88e4ee5ca2babeb788f89604a2e252f5158b8909
+  - elementId: slide-4-node-8-Content-Placeholder-2
+    elementType: text
+    bounds:
+      - 36
+      - 126
+      - 648
+      - 356.375
+    content:
+      fontFamily: 微软雅黑
+      fontSize: 20
+      color: '#000000'
+      align:
+        - left
+        - top
+      wrap: true
+      fit: shrink
+      text: <p><span style="color:#000000;font-size:20px;font-family:微软雅黑">中文渲染与字体回退</span></p><p><span style="color:#000000;font-size:20px;font-family:微软雅黑">母版占位符继承</span></p><p><span style="color:#000000;font-size:20px;font-family:微软雅黑">LibreOfficeKit 转 PNG 保真度</span></p>
+      paragraphs:
+        - runs:
+            - text: 中文渲染与字体回退
+              options:
+                fontSize: 20
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: left
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+        - runs:
+            - text: 母版占位符继承
+              options:
+                fontSize: 20
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: left
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+        - runs:
+            - text: LibreOfficeKit 转 PNG 保真度
+              options:
+                fontSize: 20
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: left
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+      nativeTextBody: <p:txBody xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0"><a:normAutofit/></a:bodyPr><a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="l" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:defRPr sz="2000"><a:latin typeface="微软雅黑"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="2000" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>中文渲染与字体回退</a:t></a:r></a:p><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="l" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:defRPr sz="2000"><a:latin typeface="微软雅黑"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="2000" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>母版占位符继承</a:t></a:r></a:p><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="l" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:defRPr sz="2000"><a:latin typeface="微软雅黑"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="2000" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>LibreOfficeKit 转 PNG 保真度</a:t></a:r></a:p></p:txBody>
+      textBox: false
+      margins:
+        - 3.6
+        - 7.2
+        - 3.6
+        - 7.2
+      overflow: clip
+    sourceLayout: 43e070c007e946465e54f2aa29a5aad813f91771262aff9b7c159ae5370ca550

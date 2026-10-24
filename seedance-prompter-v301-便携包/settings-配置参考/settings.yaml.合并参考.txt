@@ -1,0 +1,39 @@
+# ============================================================
+# Seedance 提示词导演 3.01 —— settings.yaml 合并参考
+# 合并位置：%APPDATA%\dsh-desktop\harness\settings.yaml
+# 说明：把下面三处键合并进目标机 settings.yaml（如有同名键则覆盖）。
+#       本文件不含任何密钥；API Key 走环境变量 TT_API_KEY。
+# ============================================================
+
+# ---- 1) 模型中转站定义（llm-pi-ai.providers.tt）----
+llm-pi-ai:
+  providers:
+    tt:
+      displayName: TT
+      apiKeyEnv: TT_API_KEY
+      api: openai-completions
+      baseURL: https://tbtk.asia/v1        # ← 按目标机实际中转地址修改
+      models:
+        - id: deepseek-v4-flash-0731       # ← 3.0 系列预设调教基准模型（必须存在）
+        - id: deepseek-v4-flash
+        - id: deepseek-v4-pro
+        # …… 其他模型按需增删
+
+# ---- 2) 默认模型路由 ----
+agent-default-model:
+  provider: tt
+  model: deepseek-v4-flash-0731
+
+# ---- 3) 默认 Agent 预设挂载 ----
+agent-presets:
+  default: seedance-prompter-v301
+
+# ============================================================
+# 提示：
+# ① baseURL / 模型列表以目标机实际中转服务为准，但请务必保留
+#    deepseek-v4-flash-0731（或至少同系 deepseek 模型），
+#    否则「效果不如预期」风险最高。
+# ② 若目标机已有 provider（如官方 deepseek），可跳过第 1 段，
+#    仅把 agent-default-model 指向已有 provider+model。
+# ③ 修改 settings.yaml 后必须完全退出 DSH 桌面版再重开才生效。
+# ============================================================

@@ -1,0 +1,320 @@
+*02020603050405020304Times New Roman*Times New Roman;*02010600030101010101宋体*宋体;*020f0502020204030204Calibri*Calibri;*05000000000000000000Wingdings*Wingdings;*02070309020205020404Courier New*Courier New;;;;;;;;;;;;;;;;;;Normal;*Default Paragraph Font;Plain Text;*Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;index 1;index 2;index 3;index 4;index 5;index 6;index 7;index 8;index 9;toc 1;toc 2;toc 3;toc 4;toc 5;toc 6;toc 7;toc 8;toc 9;Normal Indent;footnote text;annotation text;header;footer;index heading;caption;table of figures;envelope address;envelope return;footnote reference;annotation reference;line number;page number;endnote reference;endnote text;table of authorities;macro;toa heading;List;List Bullet;List Number;List 2;List 3;List 4;List 5;List Bullet 2;List Bullet 3;List Bullet 4;List Bullet 5;List Number 2;List Number 3;List Number 4;List Number 5;Title;Closing;Signature;Default Paragraph Font;Body Text;Body Text Indent;List Continue;List Continue 2;List Continue 3;List Continue 4;List Continue 5;Message Header;Subtitle;Salutation;Date;Body Text First Indent;Body Text First Indent 2;Note Heading;Body Text 2;Body Text 3;Body Text Indent 2;Body Text Indent 3;Block Text;Hyperlink;FollowedHyperlink;Strong;Emphasis;Document Map;Plain Text;E-mail Signature;Normal (Web);HTML Acronym;HTML Address;HTML Cite;HTML Code;HTML Definition;HTML Keyboard;HTML Preformatted;HTML Sample;HTML Typewriter;HTML Variable;Normal Table;annotation subject;No List;1 / a / i;1 / 1.1 / 1.1.1;Article / Section;Table Simple 1;Table Simple 2;Table Simple 3;Table Classic 1;Table Classic 2;Table Classic 3;Table Classic 4;Table Colorful 1;Table Colorful 2;Table Colorful 3;Table Columns 1;Table Columns 2;Table Columns 3;Table Columns 4;Table Columns 5;Table Grid 1;Table Grid 2;Table Grid 3;Table Grid 4;Table Grid 5;Table Grid 6;Table Grid 7;Table Grid 8;Table List 1;Table List 2;Table List 3;Table List 4;Table List 5;Table List 6;Table List 7;Table List 8;Table 3D effects 1;Table 3D effects 2;Table 3D effects 3;Table Contemporary;Table Elegant;Table Professional;Table Subtle 1;Table Subtle 2;Table Web 1;Table Web 2;Table Web 3;Balloon Text;Table Grid;Table Theme;Placeholder Text;No Spacing;Light Shading;Light List;Light Grid;Medium Shading 1;Medium Shading 2;Medium List 1;Medium List 2;Medium Grid 1;Medium Grid 2;Medium Grid 3;Dark List;Colorful Shading;Colorful List;Colorful Grid;Light Shading Accent 1;Light List Accent 1;Light Grid Accent 1;Medium Shading 1 Accent 1;Medium Shading 2 Accent 1;Medium List 1 Accent 1;List Paragraph;Quote;Intense Quote;Medium List 2 Accent 1;Medium Grid 1 Accent 1;Medium Grid 2 Accent 1;Medium Grid 3 Accent 1;Dark List Accent 1;Colorful Shading Accent 1;Colorful List Accent 1;Colorful Grid Accent 1;Light Shading Accent 2;Light List Accent 2;Light Grid Accent 2;Medium Shading 1 Accent 2;Medium Shading 2 Accent 2;Medium List 1 Accent 2;Medium List 2 Accent 2;Medium Grid 1 Accent 2;Medium Grid 2 Accent 2;Medium Grid 3 Accent 2;Dark List Accent 2;Colorful Shading Accent 2;Colorful List Accent 2;Colorful Grid Accent 2;Light Shading Accent 3;Light List Accent 3;Light Grid Accent 3;Medium Shading 1 Accent 3;Medium Shading 2 Accent 3;Medium List 1 Accent 3;Medium List 2 Accent 3;Medium Grid 1 Accent 3;Medium Grid 2 Accent 3;Medium Grid 3 Accent 3;Dark List Accent 3;Colorful Shading Accent 3;Colorful List Accent 3;Colorful Grid Accent 3;Light Shading Accent 4;Light List Accent 4;Light Grid Accent 4;Medium Shading 1 Accent 4;Medium Shading 2 Accent 4;Medium List 1 Accent 4;Medium List 2 Accent 4;Medium Grid 1 Accent 4;Medium Grid 2 Accent 4;Medium Grid 3 Accent 4;Dark List Accent 4;Colorful Shading Accent 4;Colorful List Accent 4;Colorful Grid Accent 4;Light Shading Accent 5;Light List Accent 5;Light Grid Accent 5;Medium Shading 1 Accent 5;Medium Shading 2 Accent 5;Medium List 1 Accent 5;Medium List 2 Accent 5;Medium Grid 1 Accent 5;Medium Grid 2 Accent 5;Medium Grid 3 Accent 5;Dark List Accent 5;Colorful Shading Accent 5;Colorful List Accent 5;Colorful Grid Accent 5;Light Shading Accent 6;Light List Accent 6;Light Grid Accent 6;Medium Shading 1 Accent 6;Medium Shading 2 Accent 6;Medium List 1 Accent 6;Medium List 2 Accent 6;Medium Grid 1 Accent 6;Medium Grid 2 Accent 6;Medium Grid 3 Accent 6;Dark List Accent 6;Colorful Shading Accent 6;Colorful List Accent 6;Colorful Grid Accent 6;*WPS Office6754667546seltbaln *!),.:;?]}¨·ˇˉ�D‖’”…∶、。〃々〉》」』】〕〗！＂＇），．：；？］｀｜｝～￠*([{·‘“〈《「『【〔〖（．［｛￡￥*
+*
+*
+*
+# 《妖市夜巡》第一集前3分钟AIGC横屏漫剧直接制作稿
+
+## 制作规格
+
+- 成片时长：约03:15
+- 画幅：16:9横屏
+- 分辨率：1920c1 ×?1080
+- 帧率：24fps
+- 内容范围：第一集场1-1至场1-3
+- 基调：东方暗黑奇幻、悬疑探案、冷青夜色与暖红灯笼对撞
+- 表现尺度：无血腥肢解；超自然效果以梦雾、情丝、愿泡和梦砂表现
+
+## 连续性锁定
+
+- 妖市东门：青砖牌楼、两层摊位、暖红灯笼、湿润石板路。
+- 纪临夜：二十八岁左右，束黑发，黑灰夜巡袍，暗红护甲，佩刀与镇妖索；行动利落，先救人再查案。
+- 阿满：十八岁左右，杏色短衫、青绿色围裙，糖画摊少女。
+- 沈万筹：四十五岁左右，靛蓝旧长衫，神情克制沉重，袖中藏c1 “?万民请神书c1 ”?。
+- 绛绡：年轻女妖探员，暗红衣裙，红绸随身，指尖可抽取情丝。
+- 团团：猫崽大小，奶白绒毛、耷耳、歪角、红色灯芯尾，腹部三盏灯；本段只亮一盏。
+- 情丝颜色：金色代表珍惜，蓝色代表遗憾，灰色代表主动放弃；不可临时更换含义。
+
+# 场1-1 她不记得母亲
+
+**时长：00:00c1 —?01:05**  
+**时空：夜，妖市东门，灯雨初落**  
+**人物：纪临夜、阿满、沈万筹、巡夜人、摊贩与围观者**
+
+### 镜头1｜00:00c1 —?00:04｜异常开场
+
+黑场。
+
+声音：更梆连续三响。
+
+第三响落下，妖市东门所有铜铃同时失声。喧闹的人声也像被抽空半拍。
+
+画面由黑转亮：青砖牌楼压在冷青夜色中，暖红灯笼无声摇晃。
+
+### 镜头2｜00:04c1 —?00:09｜糖勺坠地
+
+中近景。糖画少女阿满手中的铜勺脱手。
+
+声音：铜勺砸在湿石板上，清脆一响。
+
+糖浆在地面拖出一道断裂的金线。
+
+阿满没有去捡，只盯着摊位后的一幅妇人画像，瞳孔空白。
+
+### 镜头3｜00:09c1 —?00:14｜记忆断层
+
+阿满近景。画像虚化在她身后。
+
+阿满：这是谁？为什么放在我家？
+
+围观人群瞬间安静。
+
+### 镜头4｜00:14c1 —?00:20｜答案比失忆更痛
+
+切沈万筹。他站在人群前，眼神沉下。
+
+沈万筹：你娘。她去年病逝，你守了七天灵。
+
+画面闪回式插入一帧：白色灵幡、熄灭的烛火、阿满独自跪在灵前。只出现情绪画面，不展开完整回忆。
+
+### 镜头5｜00:20c1 —?00:24｜陌生人的泪
+
+特写。阿满摸到自己脸上的泪，指尖微颤，像碰到陌生人的水。
+
+阿满：我为什么要哭？
+
+### 镜头6｜00:24c1 —?00:31｜主角入场
+
+低机位跟拍。黑色靴子踏过地上的断糖线。
+
+纪临夜分开围观者，单膝跪地，把自己的夜巡披风折起，垫在阿满脑后。
+
+他先看阿满的呼吸和瞳孔，再抬头看现场。
+
+### 镜头7｜00:31c1 —?00:39｜封门
+
+纪临夜半身近景，身后巡夜人迅速列阵。
+
+纪临夜：别逼她想。封东门。所有带梦气的妖，一个都不许走。
+
+声音：城门锁链落下。人群出现压低的骚动。
+
+### 镜头8｜00:39c1 —?00:46｜梦气现形
+
+灯笼近景。一缕乳白色雾线从灯罩内浮出。
+
+镜头沿雾线横移。越来越多灯笼冒出同样的白雾，所有雾线缓慢汇向胭脂巷。
+
+纪临夜抬眼，视线锁住雾线去向。
+
+### 镜头9｜00:46c1 —?00:54｜个案升级
+
+沈万筹站在阿满身后，望向封闭的东门。
+
+沈万筹：又是妖。百年共治，换来的就是孩子连娘都忘了。
+
+他没有煽动人群，只把阿满掉落的糖勺轻轻放回摊边。
+
+### 镜头10｜00:54c1 —?01:00｜请神伏笔
+
+纪临夜转身时，看见沈万筹袖口露出一角纸页。
+
+插入特写：纸页标题c1 —?c1 —?c1 “?万民请神书c1 ”?。下方已有密集签名。
+
+纪临夜看沈万筹一眼，没有追问，转而循着梦雾起身。
+
+### 镜头11｜01:00c1 —?01:05｜片名转场
+
+梦雾从镜头前掠过，遮满画面。
+
+屏幕字：《妖市夜巡》第一集c1 —?c1 —?吃梦妖
+
+声音：低沉弦音起。白雾散开，转入胭脂巷。
+
+# 场1-2 嘴边有雾的小妖
+
+**时长：01:05c1 —?02:10**  
+**时空：连续，胭脂巷**  
+**人物：纪临夜、绛绡、团团、巡夜人**
+
+### 镜头12｜01:05c1 —?01:12｜雾入竹筐
+
+贴地跟拍。乳白雾线沿湿石板钻进一个倒扣的竹筐。
+
+纪临夜停步，左手示意巡夜人散开，右手按住刀柄。
+
+巷中所有灯笼轻轻一暗。
+
+### 镜头13｜01:12c1 —?01:18｜嫌疑妖现形
+
+纪临夜刀尖挑起竹筐。
+
+竹筐翻飞。
+
+圆滚滚的团团缩在下面，怀里抱着半块愿糕，嘴边沾满乳白梦雾。
+
+团团抬头，歪角碰到筐沿。
+
+团团：饭？
+
+### 镜头14｜01:18c1 —?01:24｜先抓
+
+纪临夜刀尖压低，停在团团面前。
+
+纪临夜：把吞掉的记忆吐出来。
+
+团团立刻把愿糕藏到肚皮下面。
+
+### 镜头15｜01:24c1 —?01:30｜能力边界第一次出现
+
+团团腹部特写。三盏腹灯中只有一盏亮着暗金色，其余两盏熄灭。
+
+团团用两只前爪死死护住愿糕。
+
+团团：不是饭。苦。
+
+### 镜头16｜01:30c1 —?01:36｜镇妖索
+
+纪临夜甩出镇妖索，套住团团腰身。
+
+团团被绳索带翻，四爪朝天，慌张地缓慢划水。笑点控制在两秒内，随后立刻回到紧张气氛。
+
+### 镜头17｜01:36c1 —?01:42｜绛绡入场
+
+一条红绸从屋檐垂下，挡在纪临夜和团团之间。
+
+绛绡画外音：你再勒紧半寸，它会把刚吃的东西全打嗝出来。
+
+镜头上摇。绛绡沿红绸落地，站到团团一侧。
+
+### 镜头18｜01:42c1 —?01:49｜灰线取证
+
+绛绡蹲下，指尖靠近团团嘴边。
+
+一根细灰线被她从白雾中轻轻抽出。灰线没有挣扎，只顺着她的手指垂落。
+
+团团盯着灰线，鼻尖跟着移动。
+
+### 镜头19｜01:49c1 —?01:55｜抓捕与定罪
+
+纪临夜没有收回镇妖索。
+
+纪临夜：梦气、人证、现形。够抓了。
+
+绛绡抬眼看他。
+
+绛绡：够抓，不够定罪。梦有甜、辣、苦。你闻得出来？
+
+### 镜头20｜01:55c1 —?02:02｜愿泡
+
+团团用力点头。
+
+团团：苦！不饭！
+
+它突然打嗝。一只半透明愿泡从嘴里升起。
+
+愿泡内只出现一个画面：阿满独自跪在母亲灵前，抱着药碗，恨自己没能救她。
+
+### 镜头21｜02:02c1 —?02:10｜误判被推翻
+
+愿泡照亮纪临夜和绛绡的脸。
+
+绛绡：它吃的是阿满刚刚丢掉的自责，不是她的幸福。
+
+纪临夜看向团团嘴边的白雾，又看向愿泡，手指微松，但仍未完全解开镇妖索。
+
+白色愿泡上浮，转场进入丝衣铺。
+
+# 场1-3 彩线验梦
+
+**时长：02:10c1 —?03:15**  
+**时空：夜，丝衣铺内**  
+**人物：纪临夜、绛绡、团团、阿满**
+
+### 镜头22｜02:10c1 —?02:17｜织架验泪
+
+固定大全景。丝衣铺内只有一架木织机和悬挂的布匹。
+
+绛绡把阿满的一滴泪点在织架中央。
+
+声音：织机自行转动，木梭连续三响。
+
+数十根情丝从泪珠中抽出，在半空自行分色。
+
+### 镜头23｜02:17c1 —?02:24｜规则可视化
+
+三组情丝依次亮起：金、蓝、灰。
+
+绛绡：金色，是被珍惜；蓝色，是遗憾；灰色，是主人亲手放弃。
+
+颜色出现顺序必须与台词一致。
+
+### 镜头24｜02:24c1 —?02:29｜团团只追灰线
+
+团团挣开松动的绳圈，鼻尖追着灰线走。
+
+它对金线和蓝线毫无反应，红色灯芯尾左右摇动。
+
+纪临夜：它只吃灰线？
+
+### 镜头25｜02:29c1 —?02:36｜团团能力上限
+
+绛绡捏住灰线，避免团团直接吞下。
+
+绛绡：只吃主人已经不要的愿。肚里最多三份，多了就会睡死。
+
+插入团团腹部：三盏灯的轮廓清晰可见，仍只有一盏亮。
+
+### 镜头26｜02:36c1 —?02:42｜关系缓和
+
+纪临夜解开镇妖索。
+
+团团落地后立刻抱住他的靴子，用歪角来回磨蹭。
+
+团团：饭官。
+
+纪临夜低头，面无表情。
+
+纪临夜：我不是饭官。
+
+### 镜头27｜02:42c1 —?02:50｜真正的咬痕
+
+绛绡忽然停住。
+
+金色情丝近景。原本完整的金线中出现一排整齐咬痕，断口结着黑色晶砂。
+
+团团靠近黑砂，立刻后退，耳朵压低。
+
+### 镜头28｜02:50c1 —?02:57｜真凶规则
+
+绛绡用红绸托住一粒黑砂，不让它落地。
+
+绛绡：幸福记忆是被强行吃掉的。凶手每咬一口，都会留下一粒魇砂。
+
+纪临夜的眼神从团团转向黑砂，判断正式改变。
+
+### 镜头29｜02:57c1 —?03:04｜锁定嫌疑人
+
+纪临夜：市里谁卖魇砂？
+
+阿满脸色苍白，努力回忆。
+
+阿满：隔壁药摊的九叔。他说，能替人忘忧。
+
+声音：门外传来玻璃瓶轻碰声。
+
+### 镜头30｜03:04c1 —?03:15｜三分钟结尾钩子
+
+镜头急转向门外。
+
+一名瘦高摊主正把黑砂瓶收入袖中。他只露出半张苍白侧脸，随即戴上面具，退进百面街的人潮。
+
+纪临夜冲出丝衣铺。
+
+绛绡甩出红绸，卷起桌上一粒魇砂作为物证，紧随其后。
+
+团团抱着半块愿糕追到门口，短腿停顿一拍，再滚着跟上。
+
+声音：百面街所有拨浪鼓同时响起。
+
+画面切黑。
+
+屏幕字：真正的吃梦妖，就在人群里。
+
+## 时长核算
+
+| 场次 | 对白 | 动作与反应 | 转场 | 合计 |
+|---|---:|---:|---:|---:|
+| 1-1 她不记得母亲 | 29秒 | 31秒 | 5秒 | 65秒 |
+| 1-2 嘴边有雾的小妖 | 31秒 | 29秒 | 5秒 | 65秒 |
+| 1-3 彩线验梦 | 31秒 | 34秒 | 0秒 | 65秒 |
+| **总计** | **91秒** | **94秒** | **10秒** | **195秒（03:15）** |

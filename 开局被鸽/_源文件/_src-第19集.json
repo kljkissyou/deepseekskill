@@ -1,0 +1,93 @@
+﻿[
+    {
+        "line":  1336,
+        "scene":  "19-1",
+        "speaker":  "Margarita",
+        "cn":  "Julián，你要是想和我们家女儿结婚，最好也给我们一家买个这样的别墅。",
+        "en":  "Julián, if you’re serious about marrying our daughter, you’d better get us a villa like this one too."
+    },
+    {
+        "line":  1339,
+        "scene":  "19-1",
+        "speaker":  "Julián",
+        "cn":  "（高傲）Eloísa，你们搞清楚一件事，我让你们来是给我的孩子当保姆。你们要是做不好我随时可以把你们赶出去。",
+        "en":  "(arrogant) Eloísa, let’s get one thing straight. I brought you people here to take care of my child, nothing more. If you can’t do the job, I can throw you out anytime I want."
+    },
+    {
+        "line":  1342,
+        "scene":  "19-1",
+        "speaker":  "Julián",
+        "cn":  "（嫌弃）至于结婚，我暂时没有这个打算。（冷哼）当初看上你，也只是因为你有男朋友，比较刺激罢了。",
+        "en":  "(disdainfully) Marriage? I’m not planning on that anytime soon. (scoffs) Honestly, I only went after you because you had a boyfriend. The thrill was half the fun."
+    },
+    {
+        "line":  1345,
+        "scene":  "19-1",
+        "speaker":  "Eloísa",
+        "cn":  "（疑惑）Julián，你在开什么玩笑？上次在床上，你还答应我了……",
+        "en":  "(confused) Julián, are you serious? The last time we were in bed together, you promised me..."
+    },
+    {
+        "line":  1348,
+        "scene":  "19-1",
+        "speaker":  "Julián",
+        "cn":  "（讥讽）床上的事你也能当真？现在你们一家吃我的住我的，不听我的就赶紧滚蛋！",
+        "en":  "(Mockingly) You actually took what I said in bed seriously? Your whole family eats on my dime and lives under my roof now. If you won’t do as I say, then get out!"
+    },
+    {
+        "line":  1357,
+        "scene":  "19-2",
+        "speaker":  "同学一",
+        "cn":  "（嘲笑）这不是被逃婚的新郎Damián吗！居然还有脸来参加同学聚会！",
+        "en":  "(Mocking) Well, look who it is! Damián, the groom who got left at the altar! And you actually had the nerve to show your face at the reunion?"
+    },
+    {
+        "line":  1359,
+        "scene":  "19-2",
+        "speaker":  "同学二",
+        "cn":  "（讥讽）听说他还在他女朋友家当免费保姆，太好笑了。今天来，不会是来找工作的吧！",
+        "en":  "(Mockingly) I heard he’s still waiting on his girlfriend hand and foot for free. How pathetic! Think he showed up today to beg us for a job?"
+    },
+    {
+        "line":  1362,
+        "scene":  "19-2",
+        "speaker":  "Damián(VO)",
+        "cn":  "本来不想来的，我现在有钱了，当然要抽空来狠狠打这帮人渣的脸了。",
+        "en":  "I wasn’t even going to come. But now that I’ve got money, of course I had to make time to rub it in these assholes’ faces."
+    },
+    {
+        "line":  1366,
+        "scene":  "19-2",
+        "speaker":  "Serafina",
+        "cn":  "（嗤笑）Damián，好久不见。你怎么还是这副穷酸模样？听说你跟Eloísa那个拜金女在一起了，还被她逃婚了？真是窝囊废，幸好当年没跟你在一起。",
+        "en":  "(snickers) Damián, long time no see. Still looking as broke as ever, huh? I heard you ended up with that gold digger Eloísa, only for her to leave you at the altar. How pathetic. Thank God I never gave you a chance back then."
+    },
+    {
+        "line":  1370,
+        "scene":  "19-2",
+        "speaker":  "Damián",
+        "cn":  "（淡淡）我过得怎么样跟你没关系吧？",
+        "en":  "(With a faint smile) How I’m doing is none of your business."
+    },
+    {
+        "line":  1372,
+        "scene":  "19-2",
+        "speaker":  "Serafina",
+        "cn":  "（傲慢）怎么没关系。说来你还得谢谢我呢，要不是我，你这辈子都吃不起这么高档的饭！",
+        "en":  "(arrogantly) Of course it does. You should be thanking me. Without me, you’d probably never get to eat somewhere this fancy in your entire life!"
+    },
+    {
+        "line":  1375,
+        "scene":  "19-2",
+        "speaker":  "服务员",
+        "cn":  "（恭敬）先生，你的车已经停好了。",
+        "en":  "(With respect) Sir, I’ve parked your car for you."
+    },
+    {
+        "line":  1378,
+        "scene":  "19-2",
+        "speaker":  "Serafina",
+        "cn":  "（不可置信）你，你怎么会有这个车的钥匙！",
+        "en":  "(Incredulous) Y-You... How could you possibly have the keys to that car?!"
+    }
+]

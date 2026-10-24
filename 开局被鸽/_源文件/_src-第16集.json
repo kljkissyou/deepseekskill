@@ -1,0 +1,107 @@
+﻿[
+    {
+        "line":  1108,
+        "scene":  "16-1",
+        "speaker":  "Damián",
+        "cn":  "（强硬）那就去总裁办，看看总裁是怎么说！",
+        "en":  "(firmly) Then let’s take this to the CEO and see what she has to say!"
+    },
+    {
+        "line":  1112,
+        "scene":  "16-1",
+        "speaker":  "Mirella",
+        "cn":  "（冷声）Luis Mejía，这个业务到底是谁谈下来的？",
+        "en":  "(coldly) Luis Mejía, who exactly signed this deal?"
+    },
+    {
+        "line":  1115,
+        "scene":  "16-1",
+        "speaker":  "Luis",
+        "cn":  "（吞口水，心虚）当然是我啊，Yolanda是我的老客户了，除了我还有谁能拿下这么难缠的客户。",
+        "en":  "(Swallows saliva, feeling somewhat hesitant) Of course it was me! Yolanda’s been my client for years. Who else could’ve closed a deal with someone that difficult?"
+    },
+    {
+        "line":  1118,
+        "scene":  "16-1",
+        "speaker":  "Damián(VO）",
+        "cn":  "（一愣）这是Samanta让Mirella来替我撑腰了啊！",
+        "en":  "(Stunned) Ha, I see! Samanta sent Mirella to back me up!"
+    },
+    {
+        "line":  1121,
+        "scene":  "16-1",
+        "speaker":  "Damián",
+        "cn":  "（毫不畏惧）这业务，是我Damián谈下来的！",
+        "en":  "(Without hesitation) It was me who got this deal, Damián."
+    },
+    {
+        "line":  1124,
+        "scene":  "16-1",
+        "speaker":  "Luis",
+        "cn":  "（提高音量）你个新人瞎说什么？",
+        "en":  "(increases volume) Watch your mouth, rookie! You have no idea what you’re talking about!"
+    },
+    {
+        "line":  1127,
+        "scene":  "16-1",
+        "speaker":  "Mirella",
+        "cn":  "Luis Mejía，Yolanda昨晚特意给总裁打电话表扬了Damián，怎么就是你的业绩了？",
+        "en":  "Luis Mejía, Yolanda personally called the CEO last night to praise Damián. So how exactly are you taking credit for the deal?"
+    },
+    {
+        "line":  1130,
+        "scene":  "16-1",
+        "speaker":  "Mirella",
+        "cn":  "（拿出一份文件）总裁已经发了指令，（看Luis）你被开除了，立刻去财务结钱！（看Damián）Damián，业务能力出众，现在晋升为信息安全部的部长。",
+        "en":  "Orders from the CEO."
+    },
+    {
+        "line":  1135,
+        "scene":  "16-1",
+        "speaker":  "员工一",
+        "cn":  "（不可置信）Damián才来了一个礼拜，就从小职员晋升到了部长，太吓人了！",
+        "en":  "(Incredulous) Damián has only been here for a week, yet he\u0027s already been promoted from team lead to director of cybersecurity—this is absolutely shocking!"
+    },
+    {
+        "line":  1138,
+        "scene":  "16-1",
+        "speaker":  "Luis",
+        "cn":  "（愤怒）你个小白脸，我跟你拼了！",
+        "en":  "(Angry) You pretty-boy bastard! I’ll kill you!"
+    },
+    {
+        "line":  1145,
+        "scene":  "16-1",
+        "speaker":  "Mirella",
+        "cn":  "（皱眉高声喊）保安！把他带下去！",
+        "en":  "(frowning and shouting) Security! Escort him out!"
+    },
+    {
+        "line":  1150,
+        "scene":  "16-1",
+        "speaker":  "Eloísa(VO)",
+        "cn":  "（窃喜）不错，还知道准备这么多。一份是求我原谅，一份是求我复合，还有一份是求我嫁给你吗？也不是不行。",
+        "en":  "(with a secret smile) Not bad. He actually prepared all this. One to beg for my forgiveness, one to ask me to take him back, and another to beg me to marry him? Well... I suppose I could say yes."
+    },
+    {
+        "line":  1155,
+        "scene":  "16-1",
+        "speaker":  "Damián",
+        "cn":  "（淡淡）整理我们公司最近二十年的电脑安全数据，把出现BUG的都记录下来，下班之前给我。",
+        "en":  "(casually) Go through the company’s cybersecurity records from the past twenty years. Document every bug you can find and have it on my desk by the end of the day."
+    },
+    {
+        "line":  1158,
+        "scene":  "16-1",
+        "speaker":  "Eloísa",
+        "cn":  "（怒）你疯了？二十年？我怎么可能完得成啊！",
+        "en":  "(Angry) Are you out of your mind? Twenty years? How could I possibly finish this?"
+    },
+    {
+        "line":  1161,
+        "scene":  "16-1",
+        "speaker":  "Damián",
+        "cn":  "你要是完不成，就自己打辞职报告！",
+        "en":  "Damián: If you can’t finish it, save me the trouble and hand in your resignation."
+    }
+]

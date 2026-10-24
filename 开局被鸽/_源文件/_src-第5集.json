@@ -1,0 +1,156 @@
+﻿[
+    {
+        "line":  321,
+        "scene":  "5-1",
+        "speaker":  "员工一",
+        "cn":  "（目瞪口呆）不愧是组长，一分钟不到就解决了这么大的危机！",
+        "en":  "(Stunned) That’s our team lead! He handled a crisis this big in under a minute!"
+    },
+    {
+        "line":  324,
+        "scene":  "5-1",
+        "speaker":  "Eloísa",
+        "cn":  "（尖声）这怎么可能？你这个废物竟然破解的了病毒？",
+        "en":  "(尖叫) How is this possible? A useless piece of trash like you has actually cracked the virus!"
+    },
+    {
+        "line":  328,
+        "scene":  "5-1",
+        "speaker":  "Damián",
+        "cn":  "（轻松）这些黑客利用的是Eloísa的数据漏洞，修改了注册表，其实不算特别高明。",
+        "en":  "(casually) They just exploited a vulnerability in Eloísa’s code and modified the registry. Nothing too sophisticated."
+    },
+    {
+        "line":  331,
+        "scene":  "5-1",
+        "speaker":  "Damián",
+        "cn":  "现在，谁是废物？",
+        "en":  "Now, who did you call useless?"
+    },
+    {
+        "line":  337,
+        "scene":  "5-2",
+        "speaker":  "Isadora",
+        "cn":  "（震惊）你说他一个人一分钟就搞定了？",
+        "en":  "(Shocked) You’re telling me he fixed the whole thing by himself in under a minute?"
+    },
+    {
+        "line":  339,
+        "scene":  "5-2",
+        "speaker":  "Mirella",
+        "cn":  "（笑着点头）对啊，总裁，你这回可是捡到宝了！",
+        "en":  "(smiling and nodding) Exactly, CEO—this time you\u0027ve really struck gold!"
+    },
+    {
+        "line":  342,
+        "scene":  "5-2",
+        "speaker":  "Isadora",
+        "cn":  "今晚给他举办个欢迎会吧，多批点钱。还有，他的奖金也增加！",
+        "en":  "Throw him a welcome party tonight. Spare no expense. And bump up his bonus, too!"
+    },
+    {
+        "line":  344,
+        "scene":  "5-2",
+        "speaker":  "Mirella",
+        "cn":  "（点头）好的。",
+        "en":  "(nodding) Okay."
+    },
+    {
+        "line":  352,
+        "scene":  "5-3",
+        "speaker":  "戒指（OS）",
+        "cn":  "（低沉，带回声）命运节点已记录。节点：Bar（酒吧）。命运馈赠——神秘药剂，饮者可令心仪之人为你倾心。",
+        "en":  "(deep, echoing) Fate-node recorded. Node: Bar. Fate\u0027s offering—the Mystic Elixir; whoever drinks it shall win the heart of the one they desire."
+    },
+    {
+        "line":  356,
+        "scene":  "5-3",
+        "speaker":  "Damián(VO)",
+        "cn":  "（咋舌）这个能力……算了，试试吧。",
+        "en":  "(In disbelief) This ability... Forget it—let\u0027s try it anyway."
+    },
+    {
+        "line":  359,
+        "scene":  "5-3",
+        "speaker":  "Damián",
+        "cn":  "（回味）这也没什么感觉啊，戒指逗我玩呢吧！",
+        "en":  "(Reflecting) Doesn\u0027t taste anything special – maybe the ring is just playing a trick on me."
+    },
+    {
+        "line":  361,
+        "scene":  "5-3",
+        "speaker":  "员工一",
+        "cn":  "Damián，过来一起跳舞啊！",
+        "en":  "Damián, come over and have some fun!"
+    },
+    {
+        "line":  363,
+        "scene":  "5-3",
+        "speaker":  "Damián",
+        "cn":  "（起身）来了！",
+        "en":  "(stands up) Coming!"
+    },
+    {
+        "line":  367,
+        "scene":  "5-3",
+        "speaker":  "Eloísa(VO)",
+        "cn":  "只要让Damián想起我的好，肯定还会对我言听计从的！",
+        "en":  "Once Damián remembers how good I was to him, he’ll be wrapped around my finger again!"
+    },
+    {
+        "line":  371,
+        "scene":  "5-3",
+        "speaker":  "Eloísa(VO)",
+        "cn":  "（得意）成了！",
+        "en":  "(Proudly) Got you!"
+    },
+    {
+        "line":  375,
+        "scene":  "5-3",
+        "speaker":  "Eloísa",
+        "cn":  "（假惺惺）Damián？Damián？你是不是喝多了？我送你回去吧！",
+        "en":  "(acting apologetic) Damián? Damián? Have you had too much to drink? Let me take you home."
+    },
+    {
+        "line":  382,
+        "scene":  "5-4",
+        "speaker":  "Damián",
+        "cn":  "（迷糊）Eloísa？你别碰我……",
+        "en":  "(confused) Eloísa? Don\u0027t touch me!"
+    },
+    {
+        "line":  386,
+        "scene":  "5-4",
+        "speaker":  "Eloísa",
+        "cn":  "虽然你不如Julián有钱，但也算个潜力股，我确实也想你的技术了。Julián不一定会娶我，那就先便宜你吧！",
+        "en":  "You may not be as rich as Julián, but you’ve got potential. And I have to admit, I’ve missed your... skills. Julián might not marry me anyway, so I guess I’ll give you another chance. Lucky you."
+    },
+    {
+        "line":  389,
+        "scene":  "5-4",
+        "speaker":  "Eloísa",
+        "cn":  "（震惊）总裁？你们怎么在这里？",
+        "en":  "(Surprised) CEO? Why are you here?"
+    },
+    {
+        "line":  391,
+        "scene":  "5-4",
+        "speaker":  "Isadora",
+        "cn":  "（冷声）放下他。",
+        "en":  "(coldly) Put him down."
+    },
+    {
+        "line":  394,
+        "scene":  "5-4",
+        "speaker":  "Eloísa",
+        "cn":  "他是我的男朋友。",
+        "en":  "He is my boyfriend."
+    },
+    {
+        "line":  396,
+        "scene":  "5-4",
+        "speaker":  "Isadora",
+        "cn":  "（冷声）我最后说一次，让你放开！",
+        "en":  "(Coldly) I won\u0027t say this again—PUT HIM DOWN"
+    }
+]

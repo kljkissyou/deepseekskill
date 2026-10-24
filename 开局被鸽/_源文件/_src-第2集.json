@@ -1,0 +1,121 @@
+﻿[
+    {
+        "line":  120,
+        "scene":  "2-1",
+        "speaker":  "Isadora",
+        "cn":  "（挑眉）你敢不敢跟我结婚？",
+        "en":  "(raising an eyebrow) Do you dare to marry me?"
+    },
+    {
+        "line":  123,
+        "scene":  "2-1",
+        "speaker":  "Damián(VO)",
+        "cn":  "那个戒指说的竟然是真的！",
+        "en":  "So the ring was telling the truth!"
+    },
+    {
+        "line":  125,
+        "scene":  "2-1",
+        "speaker":  "Damián",
+        "cn":  "你都不怕，我怕什么？",
+        "en":  "If you are not scared, then what do I have to be worried about?"
+    },
+    {
+        "line":  131,
+        "scene":  "2-1",
+        "speaker":  "Isadora",
+        "cn":  "（笑）老公，新婚快乐。",
+        "en":  "(laughs) Happy wedding, hubby."
+    },
+    {
+        "line":  136,
+        "scene":  "2-2",
+        "speaker":  "Damián",
+        "cn":  "（不可置信）不是吧，我真的有老婆了？命运戒指牛逼！",
+        "en":  "(in disbelief) No way, I actually have a wife now? This fate ring is awesome!"
+    },
+    {
+        "line":  139,
+        "scene":  "2-2",
+        "speaker":  "Damián",
+        "cn":  "回家收拾一下找个工作吧！毕竟我现在有老婆要养了！",
+        "en":  "Okay, now go home, refreshen up, and find a job! After all, I have a wife to support now."
+    },
+    {
+        "line":  145,
+        "scene":  "2-3",
+        "speaker":  "Damián",
+        "cn":  "（抱头）拒绝，拒绝，都是拒绝，找个工作怎么这么难？",
+        "en":  "(holding his head) Rejection, rejection, nothing but rejection. Why is it so hard to find a job?"
+    },
+    {
+        "line":  151,
+        "scene":  "2-3",
+        "speaker":  "Damián",
+        "cn":  "（开心）太好了！老子的人生终于要开始转运了！",
+        "en":  "(Happy) Great! My luck is finally starting to turn around!"
+    },
+    {
+        "line":  156,
+        "scene":  "2-4",
+        "speaker":  "Isadora",
+        "cn":  "（疑惑）明明是个软件工程的高材生，怎么还能没有工作呢？",
+        "en":  "(confused) He\u0027s obviously a top student, how come he doesn\u0027t have a job?"
+    },
+    {
+        "line":  158,
+        "scene":  "2-4",
+        "speaker":  "Mirella",
+        "cn":  "这份资料应该能给你答案。【人名：Mirella Soto｜Isadora秘书】",
+        "en":  "This material should be able to give you the answer."
+    },
+    {
+        "line":  162,
+        "scene":  "2-4",
+        "speaker":  "Mirella",
+        "cn":  "Damián有个女友在我们公司上班，叫Eloísa。",
+        "en":  "Damián had a girlfriend who\u0027s working at our company; her name is Eloísa."
+    },
+    {
+        "line":  164,
+        "scene":  "2-4",
+        "speaker":  "Isadora",
+        "cn":  "（皱眉）我们公司？Eloísa?",
+        "en":  "(frowning) Our company? Eloísa？"
+    },
+    {
+        "line":  167,
+        "scene":  "2-4",
+        "speaker":  "Mirella",
+        "cn":  "在他们交往的这些年里，Damián对Eloísa言听计从，给她洗衣做饭接送上下班。可Eloísa背着Damián出轨，甚至在结婚当天逃婚。",
+        "en":  "For all those years they were together, Damián did everything for Eloísa—laundry, meals, rides. He served her hand and foot. But all the while, Eloísa was cheating on him—and she even ran away on their wedding day."
+    },
+    {
+        "line":  170,
+        "scene":  "2-4",
+        "speaker":  "Isadora",
+        "cn":  "Eloísa在公司是什么职位？",
+        "en":  "What is Eloísa\u0027s position in the company?"
+    },
+    {
+        "line":  172,
+        "scene":  "2-4",
+        "speaker":  "Mirella",
+        "cn":  "软件工程师。",
+        "en":  "Software engineer ."
+    },
+    {
+        "line":  175,
+        "scene":  "2-4",
+        "speaker":  "Isadora",
+        "cn":  "直接安排Damián成为她的顶头上司，Damián的履历足够胜任。",
+        "en":  "Make Damián her direct supervisor. Based on his résumé, he\u0027s more than qualified for the position."
+    },
+    {
+        "line":  178,
+        "scene":  "2-4",
+        "speaker":  "Isadora(VO)",
+        "cn":  "（运筹帷幄）Damián，你要是还跟Eloísa藕断丝连的话，那就别怪我手段狠了！",
+        "en":  "(Mapping out a strategy) Damián, if you’re still hung up on Eloísa, then don\u0027t blame me for playing hardball."
+    }
+]

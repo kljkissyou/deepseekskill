@@ -1,0 +1,9 @@
+{
+  "name": "dsh-chinese",
+  "description": "Force DeepSeek Harness replies to communicate in Chinese (natural language only; code and error text kept as-is).",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-chinese",
+    "inject": []
+  }
+}

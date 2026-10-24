@@ -1,0 +1,8 @@
+# dsh-chinese bundle for DeepSeek Harness (dsh).
+# Inserted into the profile composition when this bundle is installed. The
+# plugin row resolves the package by name through the profile's node_modules;
+# the host half registers one system-prompt section so every agent replies in
+# Chinese (natural language only; code and error text stay untouched).
+- insert:
+    - id: dsh-chinese
+      name: dsh-chinese

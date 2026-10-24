@@ -1,0 +1,13 @@
+const r = await fetch('https://registry.npmjs.org/dsh-ops/0.3.0');
+const v = await r.json();
+console.log('name/version:', v.name, v.version);
+console.log('description:', v.description);
+console.log('engines:', JSON.stringify(v.engines), 'os:', JSON.stringify(v.os), 'cpu:', JSON.stringify(v.cpu));
+console.log('bin:', JSON.stringify(v.bin, null, 2));
+console.log('scripts:', JSON.stringify(v.scripts, null, 2));
+console.log('dsh field:', JSON.stringify(v.dsh, null, 2));
+console.log('dependencies:', JSON.stringify(v.dependencies, null, 2));
+console.log('optionalDependencies:', JSON.stringify(v.optionalDependencies, null, 2));
+console.log('peerDependencies:', JSON.stringify(v.peerDependencies, null, 2));
+console.log('dist.tarball:', v.dist && v.dist.tarball, 'integrity:', v.dist && v.dist.integrity);
+console.log('published:', v._npmUser && v._npmUser.name);

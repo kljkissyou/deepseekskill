@@ -1,0 +1,12 @@
+{
+  "name": "dsh-open-in-explorer",
+  "description": "Open delivered-file cards directly in Windows Explorer instead of the in-app preview sidebar",
+  "version": "1.0.0",
+  "entry": {
+    "name": "dsh-open-in-explorer",
+    "inject": []
+  },
+  "client": {
+    "platform": "web"
+  }
+}

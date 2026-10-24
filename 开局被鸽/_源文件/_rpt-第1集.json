@@ -1,0 +1,146 @@
+﻿[
+    {
+        "shot":  "1-3",
+        "spk":  "宾客一（斥责，语气上扬）",
+        "cn":  "这可是在教堂，/ 没想到新娘逃婚了，// 新郎还在这儿看这种视频……真是荒唐！",
+        "kind":  "full",
+        "srcLine":  59,
+        "srcSpk":  "宾客一",
+        "en":  "This is a church! I never expected the bride to run away from the wedding, while the groom is still watching this kind of video... It\u0027s utterly absurd!"
+    },
+    {
+        "shot":  "1-4",
+        "spk":  "Damián（咬着牙，一字一顿）",
+        "cn":  "你知道这是什么吗？// 这是我们家的监控！",
+        "kind":  "partial",
+        "srcLine":  62,
+        "srcSpk":  "Damián",
+        "en":  "Do you know what this is? This is our home surveillance footage! The bride who fled the wedding is having sex with someone else on MY bed!"
+    },
+    {
+        "shot":  "2-1",
+        "spk":  "Damián（愤恨，一字一顿）",
+        "cn":  "逃婚的新娘 // 正在我的床上跟别人做爱！",
+        "kind":  "partial",
+        "srcLine":  62,
+        "srcSpk":  "Damián",
+        "en":  "Do you know what this is? This is our home surveillance footage! The bride who fled the wedding is having sex with someone else on MY bed!"
+    },
+    {
+        "shot":  "3-2",
+        "spk":  "Damián（皱眉，压着情绪）",
+        "cn":  "Eloísa，/ 是你说今天结婚的。// 教堂我约好了，神父也来了，可你呢？// 现在都散场了你还不出现！",
+        "kind":  "full",
+        "srcLine":  74,
+        "srcSpk":  "Damián",
+        "en":  "(frowning) Eloísa, you wanted to get married today. I\u0027ve already made an appointment at the church, and the priest is here; but what about you? All the guests are leaving, yet you still haven\u0027t shown up."
+    },
+    {
+        "shot":  "3-4",
+        "spk":  "Damián（深呼吸一口气，语气决绝）",
+        "cn":  "Eloísa，/ 既然今天结婚你不来，// 那我们就分手吧！",
+        "kind":  "full",
+        "srcLine":  79,
+        "srcSpk":  "Damián",
+        "en":  "Eloísa, you missed our wedding. We are done!"
+    },
+    {
+        "shot":  "4-2",
+        "spk":  "Damián（皱眉，倒吸一口气）",
+        "cn":  "嘶！",
+        "kind":  "partial",
+        "srcLine":  84,
+        "srcSpk":  "Damián",
+        "en":  "(frowning) Hiss! (opens his hand to look at the wound) What kind of lousy ring is this?"
+    },
+    {
+        "shot":  "4-3",
+        "spk":  "戒指（OS，画外音·低沉带回声·无口型）",
+        "cn":  "又是一位被命运捉弄的继承者……欢迎。// 这枚戒指，/ 已历经七代主人的悲欢离合。// 你在此地流下了血，/ 命运的齿轮已然转动——// 此后每到命运的岔路口，/ 我便为你记录节点，/ 并赐你所需。",
+        "kind":  "full",
+        "srcLine":  87,
+        "srcSpk":  "戒指（OS）",
+        "en":  "(deep, echoing, like a hundred-year-old butler)Yet another heir tormented by fate… Bienvenido.  Your blood has roused me forth. Seven bearers have struck this pact before you. At every fateful turning-node ahead, I shall chronicle your fate and grant you power to change your course…"
+    },
+    {
+        "shot":  "4-4",
+        "spk":  "男人（OS，画外音·低沉·无口型）",
+        "cn":  "首个命运节点已记录。// 地点：Cathedral Metropolitana。// 命运馈赠——一位值得你的新娘。",
+        "kind":  "full",
+        "srcLine":  93,
+        "srcSpk":  "男人（OS）",
+        "en":  "(deep)First fate-node recorded. Location: Cathedral Metropolitana. Fate\u0027s offering—a bride worthy of you."
+    },
+    {
+        "shot":  "5-1",
+        "spk":  "Damián（懵，自语）",
+        "cn":  "命运馈赠一个新娘？// 我不会是被气疯了吧？",
+        "kind":  "full",
+        "srcLine":  97,
+        "srcSpk":  "Damián",
+        "en":  "(confused) Reward the bride? I must’ve been out of my mind with rage!"
+    },
+    {
+        "shot":  "5-4",
+        "spk":  "Isadora（皱眉打量 Damián，语气笃定）",
+        "cn":  "刚才听他们说，/ 新娘逃婚了。// 你就是那个新郎？",
+        "kind":  "full",
+        "srcLine":  106,
+        "srcSpk":  "Isadora",
+        "en":  "(frowning and looking Damián up and down) I just heard the bride ran away. Are you the groom?"
+    },
+    {
+        "shot":  "6-1",
+        "spk":  "Isadora（挑眉，语气带有侵略性）",
+        "cn":  "你敢不敢跟我结婚？",
+        "kind":  "none",
+        "srcLine":  0,
+        "srcSpk":  "",
+        "en":  ""
+    },
+    {
+        "shot":  "6-2",
+        "spk":  "Damián（心里发虚，嘴硬）",
+        "cn":  "你都不怕，我怕什么？",
+        "kind":  "partial",
+        "srcLine":  113,
+        "srcSpk":  "Damián",
+        "en":  "(confused) I\u0027m sorry... What?"
+    },
+    {
+        "shot":  "7-1",
+        "spk":  "Isadora（语气利落，不容商量）",
+        "cn":  "好，/ 就是你，// 跟我结婚。",
+        "kind":  "full",
+        "srcLine":  111,
+        "srcSpk":  "Isadora",
+        "en":  "Okay, you\u0027re the one. Marry me"
+    },
+    {
+        "shot":  "7-2",
+        "spk":  "Damián（懵，语气发飘）",
+        "cn":  "什么？",
+        "kind":  "full",
+        "srcLine":  113,
+        "srcSpk":  "Damián",
+        "en":  "(confused) I\u0027m sorry... What?"
+    },
+    {
+        "shot":  "7-5",
+        "spk":  "Isadora（轻笑，语气轻快）",
+        "cn":  "老公，/ 新婚快乐。",
+        "kind":  "none",
+        "srcLine":  0,
+        "srcSpk":  "",
+        "en":  ""
+    },
+    {
+        "shot":  "7-7",
+        "spk":  "Damián（苦笑，自语）",
+        "cn":  "这女人，好美！",
+        "kind":  "full",
+        "srcLine":  103,
+        "srcSpk":  "Damián (VO)",
+        "en":  "(stunned) This woman is so beautiful!"
+    }
+]

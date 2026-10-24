@@ -1,0 +1,47 @@
+# ---- 大体积 / 备份 / 中间产物：不进 git ----
+新建文件夹/
+_migrate/
+_backup-asar/
+杂/
+设定参考/
+简历优化/
+备份/
+_review/
+_export/
+_tmp/
+_tmp_out/
+_tmp-ops/
+_tmp-table-skills/
+_office-test/
+_docx-extract/
+_acl-report/
+_plugin_install_tmp/
+_skill-backup/
+_backup-profile-desktop-20261021-010902/
+_backup-dsh-ops-20261015-005749/
+_backup-profile-config-20261020-221155/
+_backup-4.0预设-20260924/
+_backup-表格转换-20260923/
+_backup-界面配置-20260923/
+.s14imgs/
+.dsh-vision-toolkit/
+.tools/
+原视频PPT_精确26页截图_v3/
+
+# ---- 依赖与构建产物 ----
+node_modules/
+dist/
+build/
+*.asar
+
+# ---- 媒体与压缩包（按需放开）----
+*.mp4
+*.mov
+*.zip
+*.7z
+*.rar
+
+# ---- 系统垃圾 ----
+Thumbs.db
+desktop.ini
+.DS_Store

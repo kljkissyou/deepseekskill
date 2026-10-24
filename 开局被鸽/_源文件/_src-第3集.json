@@ -1,0 +1,121 @@
+﻿[
+    {
+        "line":  187,
+        "scene":  "3-1",
+        "speaker":  "Mirella",
+        "cn":  "Damián，这是你的工位，（递工牌）这是你的工牌。",
+        "en":  "Damián, this is your workstation. (Handing over the work badge) This is your work badge."
+    },
+    {
+        "line":  190,
+        "scene":  "3-1",
+        "speaker":  "Damián",
+        "cn":  "组长？我应聘的不是普通职员吗？",
+        "en":  "Team lead? Didn\u0027t I apply for an ordinary staff position?"
+    },
+    {
+        "line":  195,
+        "scene":  "3-1",
+        "speaker":  "Mirella",
+        "cn":  "Damián，加油吧！",
+        "en":  "Good luck, Damián! You’ve got this!"
+    },
+    {
+        "line":  198,
+        "scene":  "3-1",
+        "speaker":  "Damián(VO)",
+        "cn":  "（满意地看着工牌）组长就组长，工资肯定比普通员工的多。",
+        "en":  "(looking at the work ID with satisfaction) Team lead is great. The salary must be higher than that of ordinary employees."
+    },
+    {
+        "line":  201,
+        "scene":  "3-1",
+        "speaker":  "戒指（OS）",
+        "cn":  "（低沉，带回声）命运节点已记录。节点：信息安全部。命运馈赠——顶级黑客之能，此后数字世界再无屏障可阻你脚步。馈赠已赐。",
+        "en":  "(deep, echoing) Fate-node recorded. Node: Cybersecurity Department. Fate\u0027s offering—top-tier hacking mastery; from this day forth, no barrier in the digital world shall stand in your way. Offering granted."
+    },
+    {
+        "line":  205,
+        "scene":  "3-1",
+        "speaker":  "Damián",
+        "cn":  "（喜）这可是个好东西！有了黑客能力，我岂不是能在部门里横着走了！",
+        "en":  "(delighted) This is awesome! With hacking skills like these, I’ll be unstoppable in the department!"
+    },
+    {
+        "line":  208,
+        "scene":  "3-1",
+        "speaker":  "Eloísa",
+        "cn":  "（喘粗气）完蛋了，迟到了。【人名：Eloísa Roldán｜Damián前女友】",
+        "en":  "(gasping) Damn, I\u0027m late!"
+    },
+    {
+        "line":  212,
+        "scene":  "3-1",
+        "speaker":  "Eloísa",
+        "cn":  "（娇弱）组长你好，我是您的组员Eloísa。迟到了真是对不起，我昨天刚结婚，睡得太晚了。",
+        "en":  "(softly) Hello, team lead! I\u0027m Eloísa, one of your team members. I\u0027m really sorry for arriving late—I just got married yesterday and overslept."
+    },
+    {
+        "line":  215,
+        "scene":  "3-1",
+        "speaker":  "Damián",
+        "cn":  "（冷声）结婚？你可真会撒谎啊，Eloísa！",
+        "en":  "(coldly) Married? You do enjoy lying, Eloísa."
+    },
+    {
+        "line":  218,
+        "scene":  "3-1",
+        "speaker":  "Eloísa(VO)",
+        "cn":  "（震惊）他怎么知道？不对，这个声音是……",
+        "en":  "(Shocked) How did he know? No, this voice is..."
+    },
+    {
+        "line":  221,
+        "scene":  "3-1",
+        "speaker":  "Damián",
+        "cn":  "我说得对吗？Eloísa!",
+        "en":  "Or am I wrong? Eloísa"
+    },
+    {
+        "line":  224,
+        "scene":  "3-1",
+        "speaker":  "Eloísa",
+        "cn":  "（尖叫）啊！你，你怎么在这？",
+        "en":  "(Screams) Ah! You—how are you here?"
+    },
+    {
+        "line":  227,
+        "scene":  "3-1",
+        "speaker":  "员工一",
+        "cn":  "（提醒）Eloísa，这是我们的新组长啊。难道，（来回打量）你们认识？",
+        "en":  "(Reminds) Eloísa, this is our new team lead. Could it be that—(glances around)—you knew each other?"
+    },
+    {
+        "line":  230,
+        "scene":  "3-1",
+        "speaker":  "Damián",
+        "cn":  "Eloísa，是我的前女友。昨天该结婚的时候却逃婚。按照公司规定，迟到并虚报原因，记严重警告，扣除当日绩效。",
+        "en":  "Eloísa is my ex-girlfriend. She walked out on our wedding yesterday. But rules are rules. Being late and lying about the reason earns you a serious warning and costs you today’s performance bonus."
+    },
+    {
+        "line":  233,
+        "scene":  "3-1",
+        "speaker":  "Eloísa",
+        "cn":  "谁允许你来这上班了？我不就是逃婚了吗？你故意让我难堪？",
+        "en":  "Who said you could work here? So I walked out on our wedding. Is this your way of getting back at me?"
+    },
+    {
+        "line":  236,
+        "scene":  "3-1",
+        "speaker":  "Damián",
+        "cn":  "这是公司，不是你大喊大叫的地方！",
+        "en":  "We are at work. Behave yourself."
+    },
+    {
+        "line":  239,
+        "scene":  "3-1",
+        "speaker":  "Eloísa",
+        "cn":  "（怒吼）Damián！除非你现在离职，否则我就不跟你结婚了！你这个渣男！",
+        "en":  "(Roaring) Damián! Unless you resign right now, I won\u0027t marry you! You\u0027re a total scumbag!"
+    }
+]

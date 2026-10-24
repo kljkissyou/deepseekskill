@@ -1,0 +1,121 @@
+﻿[
+    {
+        "line":  1043,
+        "scene":  "15-1",
+        "speaker":  "Damián",
+        "cn":  "（惊）不对，昨晚那个女人给我喝了什么？",
+        "en":  "(startled) Shit. That woman spiked my drink last night!"
+    },
+    {
+        "line":  1046,
+        "scene":  "15-1",
+        "speaker":  "Damián",
+        "cn":  "（庆幸）还好，裤子还在。",
+        "en":  "(Relieved) Thank god, I still have my pants on."
+    },
+    {
+        "line":  1050,
+        "scene":  "15-1",
+        "speaker":  "Damián",
+        "cn":  "（开心）老婆，看到你真开心！",
+        "en":  "(Happy) Wifey, I\u0027m so happy to see you!"
+    },
+    {
+        "line":  1053,
+        "scene":  "15-1",
+        "speaker":  "Damián(VO)",
+        "cn":  "对了，戒指今天就能取了，一会儿去取了，晚上给她一个惊喜。",
+        "en":  "Oh, right. The ring should be ready today. I’ll pick it up later and surprise her tonight."
+    },
+    {
+        "line":  1058,
+        "scene":  "15-2",
+        "speaker":  "戒指（OS）",
+        "cn":  "（低沉，带回声）命运节点已记录。节点：珠宝店。命运馈赠——鉴宝专家之能，可辨珠宝真伪。",
+        "en":  "(deep, echoing) Node of destiny recorded: Jewelry Store. Fate’s offering—the eye of a master appraiser, able to spot any fake at a glance."
+    },
+    {
+        "line":  1062,
+        "scene":  "15-2",
+        "speaker":  "Damián(VO)",
+        "cn":  "之前有顶级黑客，现在又变成了鉴宝专家，有了这戒指，我感觉我马上就能成为世界的主角了！",
+        "en":  "First, I got the skills of a top-tier hacker, and now I’m a master appraiser. With this ring, I feel like I’m about to become the main character of the whole damn world!"
+    },
+    {
+        "line":  1065,
+        "scene":  "15-2",
+        "speaker":  "Damián（VO）",
+        "cn":  "这戒指莫名其妙地出现，说不定哪天也会莫名其妙地离开，我还是不能太依赖它的能力。多多提升自己才重要。",
+        "en":  "This ring came out of nowhere, and it could disappear just as easily. I can’t rely on it forever. What really matters is becoming stronger on my own."
+    },
+    {
+        "line":  1069,
+        "scene":  "15-2",
+        "speaker":  "Damián",
+        "cn":  "这个，还有这个，也帮我包起来吧。",
+        "en":  "This one, and this one too—could you wrap them up for me?"
+    },
+    {
+        "line":  1071,
+        "scene":  "15-2",
+        "speaker":  "Damián(VO)",
+        "cn":  "这两条给Samanta和Beatriz，当作见面礼。",
+        "en":  "These two are for Samanta and Beatriz. Just a little something for our first meeting."
+    },
+    {
+        "line":  1074,
+        "scene":  "15-2",
+        "speaker":  "Damián(VO)",
+        "cn":  "（笑眯眯）今天又迟到了应该没事吧？毕竟昨天才帮Samanta签了个大单子。",
+        "en":  "(smiling) I’m late again today, but I should be fine, right? I did help Samanta land a huge deal yesterday."
+    },
+    {
+        "line":  1079,
+        "scene":  "15-3",
+        "speaker":  "Luis",
+        "cn":  "（怒）Damián！你还知道来？",
+        "en":  "(Angry) Damián! You finally decided to show up?"
+    },
+    {
+        "line":  1083,
+        "scene":  "15-3",
+        "speaker":  "Eloísa",
+        "cn":  "Damián，你天天迟到，部长肯定会让你滚蛋的！",
+        "en":  "Damián, you’re late every single day. Luis is definitely going to fire you!"
+    },
+    {
+        "line":  1086,
+        "scene":  "15-3",
+        "speaker":  "Damián",
+        "cn":  "部长，你不会忘了吧，昨天是你让我去谈业务的。而且，咱们公司有规定，只要有业务成绩就可以弹性上下班，所以我不算迟到。",
+        "en":  "Luis, you haven’t forgotten, have you? You’re the one who sent me to close that deal yesterday. Company policy says employees who bring in business get flexible hours. So technically, I’m not late."
+    },
+    {
+        "line":  1089,
+        "scene":  "15-3",
+        "speaker":  "Luis",
+        "cn":  "（冷哼）什么叫我让你去谈业务？这业务我跟了这么久，跟你有什么关系？",
+        "en":  "(snorts coldly) What do you mean I sent you? I’ve been working on that deal for ages! What did you have to do with any of it?"
+    },
+    {
+        "line":  1092,
+        "scene":  "15-3",
+        "speaker":  "Damián(VO)",
+        "cn":  "好啊，这是打算抢我的功劳是吧。",
+        "en":  "Alright, you\u0027re trying to steal my credit now?"
+    },
+    {
+        "line":  1095,
+        "scene":  "15-3",
+        "speaker":  "Luis",
+        "cn":  "仗着自己有点小技术，在我的部门招摇撞骗，天天迟到。我劝你主动离职，省得我开除你！",
+        "en":  "You’ve got a little technical skill, and suddenly you think you can do whatever you want in my department—showing off, coming in late every day. Do yourself a favor and quit before I fire you!"
+    },
+    {
+        "line":  1098,
+        "scene":  "15-3",
+        "speaker":  "Eloísa",
+        "cn":  "让你砸我家，我看你没了工作还怎么得意！",
+        "en":  "That’s what you get for trashing my house! Let’s see how smug you are once you’re out of a job!"
+    }
+]

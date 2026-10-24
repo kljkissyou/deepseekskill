@@ -1,0 +1,119 @@
+pageType: content
+background:
+  type: solid
+  color: '#FFFFFF'
+elements:
+  - elementId: slide-3-node-5-Title-1
+    elementType: text
+    bounds:
+      - 36
+      - 21.625
+      - 648
+      - 90
+    content:
+      fontFamily: Microsoft YaHei
+      fontSize: 44
+      color: '#000000'
+      align:
+        - center
+        - middle
+      wrap: true
+      fit: shrink
+      text: <p><span style="color:#000000;font-size:44px;font-family:Microsoft YaHei">二、对标影片（Visual Benchmarks）</span></p>
+      paragraphs:
+        - runs:
+            - text: 二、对标影片（Visual Benchmarks）
+              options:
+                fontSize: 44
+                fontFamily: Microsoft YaHei
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: center
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+      nativeTextBody: <p:txBody xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0" anchor="ctr"><a:normAutofit/></a:bodyPr><a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="ctr" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:spcBef><a:spcPct val="0"/></a:spcBef><a:buNone/><a:defRPr sz="4400" kern="1200"><a:solidFill><a:schemeClr val="tx1"/></a:solidFill><a:latin typeface="+mj-lt"/><a:ea typeface="+mj-ea"/><a:cs typeface="+mj-cs"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="4400" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="Microsoft YaHei"/><a:ea typeface="Microsoft YaHei"/><a:cs typeface="Microsoft YaHei"/></a:rPr><a:t>二、对标影片（Visual Benchmarks）</a:t></a:r></a:p></p:txBody>
+      textBox: false
+      margins:
+        - 3.6
+        - 7.2
+        - 3.6
+        - 7.2
+      overflow: clip
+    sourceLayout: 8e76576c7ec78e5b5b771fa708d3f1db6208009ce7723dac0d1274c7a882ac0f
+  - elementId: slide-3-node-6-Content-Placeholder-2
+    elementType: text
+    bounds:
+      - 36
+      - 126
+      - 648
+      - 356.375
+    content:
+      fontFamily: 微软雅黑
+      fontSize: 20
+      color: '#000000'
+      align:
+        - left
+        - top
+      wrap: true
+      fit: shrink
+      text: <p><span style="color:#000000;font-size:20px;font-family:微软雅黑">冷青：权力/命运/系统提示</span></p><p><span style="color:#000000;font-size:20px;font-family:微软雅黑">暗金：Elorza-Salazar 家族财富</span></p><p><span style="color:#000000;font-size:20px;font-family:微软雅黑">血红：背叛与冲突爆发点</span></p>
+      paragraphs:
+        - runs:
+            - text: 冷青：权力/命运/系统提示
+              options:
+                fontSize: 20
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: left
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+        - runs:
+            - text: 暗金：Elorza-Salazar 家族财富
+              options:
+                fontSize: 20
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: left
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+        - runs:
+            - text: 血红：背叛与冲突爆发点
+              options:
+                fontSize: 20
+                fontFamily: 微软雅黑
+                color: '#000000'
+          fontSize: 18
+          marginLeft: 0
+          marginRight: 0
+          indent: 0
+          align: left
+          lineHeight: 1
+          spaceBefore: 0
+          spaceAfter: 0
+          tabStops: []
+      nativeTextBody: <p:txBody xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"><a:bodyPr xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" vert="horz" lIns="91440" tIns="45720" rIns="91440" bIns="45720" rtlCol="0"><a:normAutofit/></a:bodyPr><a:lstStyle xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="l" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:defRPr sz="2000"><a:latin typeface="微软雅黑"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="2000" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>冷青：权力/命运/系统提示</a:t></a:r></a:p><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="l" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:defRPr sz="2000"><a:latin typeface="微软雅黑"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="2000" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>暗金：Elorza-Salazar 家族财富</a:t></a:r></a:p><a:p xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:pPr marL="0" algn="l" defTabSz="457200" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1"><a:defRPr sz="2000"><a:latin typeface="微软雅黑"/></a:defRPr></a:pPr><a:r><a:rPr lang="en-US" sz="2000" kern="1200"><a:solidFill><a:srgbClr val="000000"/></a:solidFill><a:latin typeface="微软雅黑"/><a:ea typeface="微软雅黑"/><a:cs typeface="微软雅黑"/></a:rPr><a:t>血红：背叛与冲突爆发点</a:t></a:r></a:p></p:txBody>
+      textBox: false
+      margins:
+        - 3.6
+        - 7.2
+        - 3.6
+        - 7.2
+      overflow: clip
+    sourceLayout: b58748f7816f307cfcf5cd3d3fe146fa5fc5f324989693799b94c1de7c1d7286

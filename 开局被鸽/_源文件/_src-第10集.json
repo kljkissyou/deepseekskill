@@ -1,0 +1,170 @@
+﻿[
+    {
+        "line":  676,
+        "scene":  "10-1",
+        "speaker":  "Damián（VO）",
+        "cn":  "现在记录节点？",
+        "en":  "Recording a fate-node now?"
+    },
+    {
+        "line":  678,
+        "scene":  "10-1",
+        "speaker":  "戒指（OS）",
+        "cn":  "（低沉，带回声）命运馈赠——三百万美元已至，款项即刻转入继承者账户。",
+        "en":  "Fate’s offering—three million dollars, now deposited into the heir’s account."
+    },
+    {
+        "line":  684,
+        "scene":  "10-1",
+        "speaker":  "Samanta",
+        "cn":  "放开我！",
+        "en":  "Let me go!"
+    },
+    {
+        "line":  688,
+        "scene":  "10-1",
+        "speaker":  "Damián",
+        "cn":  "（拍了拍手）我知道你对我和我爸有意见，但你们家的钱我们真的不稀罕！",
+        "en":  "I know you’ve got a problem with me and my dad, but trust me, we’re not interested in your family’s money!"
+    },
+    {
+        "line":  691,
+        "scene":  "10-1",
+        "speaker":  "Isadora",
+        "cn":  "Samanta你真的误会了，是我主动提出和Damián结婚的！他之前不知道我的身份！",
+        "en":  "Samanta, this is a misunderstanding. I proposed marriage to Damián! He didn\u0027t know my identity before."
+    },
+    {
+        "line":  694,
+        "scene":  "10-1",
+        "speaker":  "Samanta",
+        "cn":  "（抱怨）随便你们吧！我不管你们了！",
+        "en":  "(Grumbling) Do whatever you want! It\u0027s none of my business."
+    },
+    {
+        "line":  698,
+        "scene":  "10-1",
+        "speaker":  "Isadora",
+        "cn":  "Damián对不起，我不应该瞒着你的。",
+        "en":  "Damián, I\u0027m sorry—I should have told you about my identity before."
+    },
+    {
+        "line":  700,
+        "scene":  "10-1",
+        "speaker":  "Damián",
+        "cn":  "（笑）没事的，我能理解，Samanta那么年轻，却能把公司打理得那么好，性格肯定很谨慎的。",
+        "en":  "(laughs) It’s fine. I understand. Samanta’s managed to run a company this well at such a young age. Of course she’s going to be cautious"
+    },
+    {
+        "line":  702,
+        "scene":  "10-1",
+        "speaker":  "Isadora",
+        "cn":  "（疑惑）什么？（反应过来，掩饰）对，她做总裁太累了，所以脾气不好。",
+        "en":  "(confused) What? (quickly covering) Oh, right. Being the CEO is exhausting. That’s why she can be a little short-tempered."
+    },
+    {
+        "line":  705,
+        "scene":  "10-1",
+        "speaker":  "Isadora（VO ）",
+        "cn":  "Samanta先辛苦你做一下总裁啦！",
+        "en":  "Samanta, guess you have to be the CEO for a bit!"
+    },
+    {
+        "line":  711,
+        "scene":  "10-2",
+        "speaker":  "Damián（VO）",
+        "cn":  "我不能让Isadora的家人继续误解我，况且我还欠她一枚戒指，刚才获得的三百万美元我全都拿出来给Isadora挑一枚好看的戒指吧。",
+        "en":  "I can’t let Isadora’s family keep getting the wrong idea about me. Besides, I still owe her a ring. I’ll spend every penny of that three million on the perfect ring for her."
+    },
+    {
+        "line":  715,
+        "scene":  "10-2",
+        "speaker":  "店员",
+        "cn":  "（小声打电话）Eloísa，我在珠宝店到Damián了！（悄悄偷瞄Damián，表情兴奋）Eloísa，Damián是不是要跟你求婚啊！",
+        "en":  "(murmuring on the phone) Eloísa, I saw Damián at the jewelry store! (glances covertly at Damián with an excited expression) Is Damián going to propose to you?"
+    },
+    {
+        "line":  717,
+        "scene":  "10-2",
+        "speaker":  "Eloísa(VO)",
+        "cn":  "（得意）你帮我看看他买的什么款式？",
+        "en":  "(smiling) Can you check which one he bought?"
+    },
+    {
+        "line":  721,
+        "scene":  "10-2",
+        "speaker":  "店员",
+        "cn":  "（羡慕）是最新款的真爱天使！要三百万美元呢！",
+        "en":  "(Envious) It’s the latest True Love Angel design! It’s worth three million dollars!"
+    },
+    {
+        "line":  726,
+        "scene":  "10-3",
+        "speaker":  "Eloísa",
+        "cn":  "我就知道Damián还爱着我！先把Damián手里三百万美元的钻戒骗到手，之前那个太便宜了，我都看不上。",
+        "en":  "I knew Damián still loves me! I’ll get that three-million-dollar diamond ring out of him first. The last one was so cheap, I wouldn’t even look twice at it."
+    },
+    {
+        "line":  729,
+        "scene":  "10-3",
+        "speaker":  "Eloísa（坏笑）",
+        "cn":  "在此之前得先给他点教训！",
+        "en":  "But first, I need to teach him a lesson!"
+    },
+    {
+        "line":  734,
+        "scene":  "10-4",
+        "speaker":  "Luis",
+        "cn":  "（不满）Damián才上班几天就迟到？",
+        "en":  "(Unhappy) Damián’s only been here a few days, and he’s already showing up late?"
+    },
+    {
+        "line":  737,
+        "scene":  "10-4",
+        "speaker":  "Luis",
+        "cn":  "（轻咳一声，移开视线）这个Damián，在我眼皮子底下乱搞男女关系！哪怕总裁赏识他，我也不会放过他的！",
+        "en":  "(Coughs lightly, shifting his gaze away) Damián’s messing around with women at work, right under my nose! I don’t care if he’s the CEO’s favorite. I’m not letting this slide!"
+    },
+    {
+        "line":  740,
+        "scene":  "10-4",
+        "speaker":  "Damián",
+        "cn":  "（看Luis）部长，不好意思，我来晚了。",
+        "en":  "(Looking at Luis) Mr. Luis, so sorry, I\u0027m a bit late."
+    },
+    {
+        "line":  743,
+        "scene":  "10-4",
+        "speaker":  "Luis",
+        "cn":  "Damián，上班第三天就迟到两个小时？扣钱！来我办公室！",
+        "en":  "Damián, it\u0027s only your third day, and you\u0027re already two hours late? I’m docking your pay. My office. Now."
+    },
+    {
+        "line":  747,
+        "scene":  "10-4",
+        "speaker":  "员工一",
+        "cn":  "（疑惑）部长怎么了？他以前对迟到也没这么严格啊！",
+        "en":  "(Confused) What’s gotten into Luis? He’s never been this strict about tardiness before."
+    },
+    {
+        "line":  749,
+        "scene":  "10-4",
+        "speaker":  "员工二",
+        "cn":  "（小声）我早上看到Eloísa进了部长办公室，她出来后，部长就开始查迟到了。",
+        "en":  "(murmuring) I saw Eloísa enter Luis\u0027s office this morning. The second she came out, he suddenly started cracking down on tardiness."
+    },
+    {
+        "line":  751,
+        "scene":  "10-4",
+        "speaker":  "员工一",
+        "cn":  "（祈祷）希望组长没事。",
+        "en":  "(Praying) I hope the team lead is okay."
+    },
+    {
+        "line":  756,
+        "scene":  "10-5",
+        "speaker":  "Luis",
+        "cn":  "这是我最近跟进的项目，你想办法搞定。不然，自己离开！",
+        "en":  "This is a project I’ve been working on. Figure out how to get it done. If you can’t, pack your things and get out."
+    }
+]

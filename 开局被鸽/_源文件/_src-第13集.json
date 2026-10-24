@@ -1,0 +1,86 @@
+﻿[
+    {
+        "line":  921,
+        "scene":  "13-1",
+        "speaker":  "Damián",
+        "cn":  "（放下锤子，表情畅快）爽！",
+        "en":  "(Sets down the hammer, with a satisfied expression) That\u0027s what I\u0027m talking about!"
+    },
+    {
+        "line":  925,
+        "scene":  "13-1",
+        "speaker":  "Damián",
+        "cn":  "拆家费我就不跟你们要了，以后少来我面前晃！",
+        "en":  "Consider the demolition free of charge. Now stay the hell out of my face!"
+    },
+    {
+        "line":  929,
+        "scene":  "13-1",
+        "speaker":  "Eloísa",
+        "cn":  "（愤怒）Damián，你不就是想逼着我嫁给你吗？你做梦！",
+        "en":  "(Angry) Damián, you’re doing all this just to force me to marry you, aren’t you? In your dreams!"
+    },
+    {
+        "line":  932,
+        "scene":  "13-1",
+        "speaker":  "Margarita",
+        "cn":  "（不可置信）这发生了什么？我家怎么变成这样了！",
+        "en":  "(In disbelief) What happened? My house is ruined!"
+    },
+    {
+        "line":  942,
+        "scene":  "13-2",
+        "speaker":  "Damián",
+        "cn":  "（不好意思）抱歉，Yolanda女士，我迟到了。",
+        "en":  "(Sorry) Sorry, Ms. Yolanda, I\u0027m late."
+    },
+    {
+        "line":  948,
+        "scene":  "13-2",
+        "speaker":  "Yolanda",
+        "cn":  "（调戏）帅哥，你叫什么？",
+        "en":  "(teasing) What\u0027s your name cutie?"
+    },
+    {
+        "line":  951,
+        "scene":  "13-2",
+        "speaker":  "Damián",
+        "cn":  "自我介绍一下，我叫Damián。是这个项目的对接员。",
+        "en":  "Let me introduce myself. I’m Damián, your point of contact for this project."
+    },
+    {
+        "line":  955,
+        "scene":  "13-2",
+        "speaker":  "Yolanda",
+        "cn":  "（诱惑）Damián？真是个好名字。这样吧，你跟我去一趟酒店，这个项目我就跟你们公司签，怎么样？",
+        "en":  "Damián? What a lovely name. How about this—you come to a hotel with me, and I’ll sign the deal with your company. What do you say?"
+    },
+    {
+        "line":  957,
+        "scene":  "13-2",
+        "speaker":  "Damián(VO)",
+        "cn":  "（倒吸一口凉气）Samanta，你怎么跟这样的人合作啊！怪不得Luis让我来！",
+        "en":  "Samanta, how do you even work with someone like this? No wonder Luis dumped this project on me!"
+    },
+    {
+        "line":  960,
+        "scene":  "13-2",
+        "speaker":  "Damián",
+        "cn":  "那个，我们还是坐下说吧。",
+        "en":  "Well, let\u0027s talk business first."
+    },
+    {
+        "line":  963,
+        "scene":  "13-2",
+        "speaker":  "Damián",
+        "cn":  "哎呀！合同我落在车上了！我这就去拿。",
+        "en":  "Oh no! I left the contract in the car! I\u0027ll go get it right away!"
+    },
+    {
+        "line":  967,
+        "scene":  "13-2",
+        "speaker":  "Yolanda",
+        "cn":  "（志在必得）小东西，你逃不掉的。",
+        "en":  "Pretty boy, you’re not getting away that easily."
+    }
+]
